@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Graduate & Software Engineer | Full-Stack • DevOps • Cloud</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Automating+everything+with+DevOps;Learning+Cloud+%26+AWS+every+day" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+systems;Automating+everything+with+DevOps;" alt="Typing SVG" />
 </p>
 
 ## 💫 About Me
