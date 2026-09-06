@@ -47,7 +47,7 @@ Computer Science graduate and Software Engineer with a strong foundation in full
 
 - 💍 **Jewelry Store E-Commerce App (Amr Elhedia)** → [Repo](https://github.com/Magdy372/ADVANCE-project)
 
-- 📚 **Library Inventory System** → [Repo]([https://github.com/Magdy372/ADVANCE-project](https://github.com/abdelrahman18036/Library-Inventory-System-DevOps))
+- 📚 **Library Inventory System** → [Repo]([https://github.com/Magdy372/ADVANCE-project](https://github.com/abdelrahman18036/Library-Inventory-System-DevOps)
 
 ---
 
