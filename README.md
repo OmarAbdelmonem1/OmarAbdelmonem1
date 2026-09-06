@@ -55,7 +55,7 @@ Computer Science graduate and Software Engineer with a strong foundation in full
  
 ## 🌐 Connect With Me
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelmonem-40398630a) [!=
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omar-abdelmonem-40398630a) 
  
 ---
 
