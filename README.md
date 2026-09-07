@@ -12,8 +12,6 @@ Computer Science graduate and Software Engineer with a strong foundation in full
 - 💻 Full-Stack Development
 - ⚙️ DevOps & Automation
 - ☁️ Cloud & AWS
-- 🎓 AWS Certified Cloud Practitioner
-- 🚀 Always learning, building, and improving
 ---
  
 ## 🧰 Tech Stack
